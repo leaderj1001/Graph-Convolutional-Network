@@ -21,3 +21,4 @@
   - W: Weight Parameters
   
 ## Example
+![캡처](https://user-images.githubusercontent.com/22078438/60566525-1d19be80-9da2-11e9-927a-0e742e0b19cd.PNG)
